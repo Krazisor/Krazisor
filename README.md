@@ -1,2 +1,2 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Krazisor&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Krazisor)
+http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={Krazisor}&theme={github}
+![Top Langs]http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={Krazisor}&theme={github}
