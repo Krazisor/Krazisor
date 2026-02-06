@@ -1,2 +1,4 @@
-![this is me](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={Krazisor}&theme={github})
-![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={Krazisor}&theme={github})
+![](https://raw.githubusercontent.com/Krazisor/Krazisor/main/profile-summary-card-output/github/0-profile-details.svg)
+![](https://raw.githubusercontent.com/Krazisor/Krazisor/main/profile-summary-card-output/github/1-repos-per-language.svg)
+![](https://raw.githubusercontent.com/Krazisor/Krazisor/main/profile-summary-card-output/github/2-most-commit-language.svg)
+![](https://raw.githubusercontent.com/Krazisor/Krazisor/main/profile-summary-card-output/github/4-productive-time.svg)
